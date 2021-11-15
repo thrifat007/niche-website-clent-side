@@ -1,0 +1,112 @@
+[
+    {
+        "name": "BMW M5",
+        "madein": "Germany",
+        "email": "tantonetti0@is.gd",
+        "bodytype": "Coupe",
+        "availablecolor": "Red",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym13fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1544986342-f4f2e11b7c02?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Ym13fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1592930845156-49a0941384c8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M3",
+        "madein": "Germany",
+        "email": "rfigiovanni1@ehow.com",
+        "bodytype": "Sports Car",
+        "availablecolor": "Yellow",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1543796076-e9b02d7c37e8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1612545667889-b061512d0dfa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M2",
+        "madein": "Germany",
+        "email": "eaitchinson2@nih.gov",
+        "bodytype": "Convertible",
+        "availablecolor": "Blu Glauco",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1617531653635-4b0e357c091b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1626340980877-ed76ce4651b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1605822102629-918beea85679?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M1",
+        "madein": "Germany",
+        "email": "olydiatt3@histats.com",
+        "bodytype": "Coupe",
+        "availablecolor": "Arancio Argos Pearl Effect",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1616455263902-86a6da9655d5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1619362280286-f1f8fd5032ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1616924768386-b63a4b2381fd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M4",
+        "madein": "Germany",
+        "email": "pjoplin4@canalblog.com",
+        "bodytype": "Coupe",
+        "availablecolor": "Fuscia",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1570356528233-b442cf2de345?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1614288532696-203f89dc0db4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1588526562876-08b9ddfa14fe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M8",
+        "madein": "Germany",
+        "email": "egully5@cornell.edu",
+        "bodytype": "Coupe",
+        "availablecolor": "Red",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1583356322882-85559b472f56?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1584832808279-a4ae99dc93da?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1610229673429-dcbc42f5b3ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW 5 Series",
+        "madein": "Germany",
+        "email": "bclohessy6@toplist.cz",
+        "bodytype": "Coupe",
+        "availablecolor": "Bianco Icarus Metallic",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1603189720205-5cb5cdbc233e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1616455165006-7af1db02605b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzV8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1603189661342-e45f1374f890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzZ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW 3 Series",
+        "madein": "Germany",
+        "email": "callright7@bbb.org",
+        "bodytype": "Sports Car",
+        "availablecolor": "Red",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1586166412697-13f81e5a9aa7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njl8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1587376865569-3ea88a29c6f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1613027570801-5d2fe8f5e15d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODJ8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW 7 Series",
+        "madein": "Germany",
+        "email": "lgooke8@pinterest.com",
+        "bodytype": "Convertible",
+        "availablecolor": "Crimson",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1586166417450-7a475d879c51?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzh8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1576707704892-3775288bfff5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODl8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1577977658293-6ffb6c63e378?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "BMW M6",
+        "madein": "Germany",
+        "email": "bclemente9@slate.com",
+        "bodytype": "TypeCoupe",
+        "availablecolor": "Maroon",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany",
+        "image": "https://images.unsplash.com/photo-1601359169004-f9663c04c892?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGJtd3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage": "https://images.unsplash.com/photo-1604572333289-9055c9f47525?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA3fHxibXd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "fimage2": "https://images.unsplash.com/photo-1603189549723-29a00cd56120?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE1fHxibXd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]
