@@ -95,6 +95,17 @@ const Dashboard = () => {
                 >
                     My Order
                 </NavLink>
+            
+                <NavLink
+                    className='navitem text-decoration-none text-white mb-2'
+                    exact to="/makeadmin"
+                    activeStyle={{
+                        fontWeight: "bold",
+                        color: "red"
+                    }}
+                >
+                    Make admin
+                </NavLink>
             </div>
         }
     }

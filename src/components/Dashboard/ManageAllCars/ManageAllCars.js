@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const ManageAllCars = () => {
     const [services, setServices] = useState([])
     useEffect(() => {
-        fetch('https://limitless-peak-03324.herokuapp.com/services')
+        fetch('https://boiling-beach-90372.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setServices(data));
 
@@ -14,7 +14,7 @@ const ManageAllCars = () => {
     const handleDeleteUser = id => {
         const proceed = window.confirm('Are you sure you want to delete')
         if (proceed) {
-            const url = `https://limitless-peak-03324.herokuapp.com/services/${id}`
+            const url = `https://boiling-beach-90372.herokuapp.com/services/${id}`
             fetch(url, {
                 method: 'DELETE'
             })

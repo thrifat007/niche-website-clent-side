@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, GoogleAuthProvider, signInWithPopup, updateProfile, signOut } from "firebase/auth";
-import initializeAuthentication from "../components/Firebase/firebase.init";
+import initializeAuthentication from '../components/Firebase/firebase.init';
+
 
 
 // initialize firebase app
@@ -88,7 +89,7 @@ const useFirebase = () => {
     }
     //isAdmin
     useEffect(() => {
-        fetch(`https://limitless-peak-03324.herokuapp.com/users/${user.email}`)
+        fetch(`https://boiling-beach-90372.herokuapp.com/users/${user.email}`)
             .then(res => res.json())
             .then(data => {
                 setAdmin(data.admin)
@@ -101,7 +102,7 @@ const useFirebase = () => {
     //taking data from register and put in DATABASE
     const saveUser = (email, displayName, method) => {
         const user = { email, displayName }
-        fetch('https://limitless-peak-03324.herokuapp.com/users', {
+        fetch('https://boiling-beach-90372.herokuapp.com/users', {
             method: method,
             headers: {
                 'content-type': 'application/json'

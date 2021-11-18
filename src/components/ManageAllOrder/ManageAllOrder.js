@@ -10,7 +10,7 @@ const ManageAllOrder = () => {
     const [orders, setOrders] = useState([])
     const { user } = useAuth()
     useEffect(() => {
-        fetch('https://limitless-peak-03324.herokuapp.com/addOrders')
+        fetch('https://boiling-beach-90372.herokuapp.com/addOrders')
             .then(res => res.json())
             .then(data => {
                 setOrders(data)
@@ -21,9 +21,9 @@ const ManageAllOrder = () => {
         [orders]);
 
     const handleUpdate = id => {
-        const proceed = window.confirm('Are you sure you want to delete')
+        const proceed = window.confirm('Are you sure you want to Update')
         if (proceed) {
-            const url = `https://limitless-peak-03324.herokuapp.com/addOrders/${id}`
+            const url = `https://boiling-beach-90372.herokuapp.com/addOrders/${id}`
             fetch(url, {
                 method: 'PUT'
             })
@@ -41,7 +41,7 @@ const ManageAllOrder = () => {
     const handleDeleteUser = id => {
         const proceed = window.confirm('Are you sure you want to delete')
         if (proceed) {
-            const url = `https://limitless-peak-03324.herokuapp.com/addOrders/${id}`
+            const url = `https://boiling-beach-90372.herokuapp.com/addOrders/${id}`
             fetch(url, {
                 method: 'DELETE'
             })

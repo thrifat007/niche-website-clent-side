@@ -15,7 +15,7 @@ const Service = () => {
                 <Row xs={1} lg={3} className="g-3">
                     {
 
-                        randomCar.length === 0 ? <Spinner className='mx-auto' animation="border" /> : randomCar.slice(0, 6).map((service, index) => <Col key={service._id} className='p-3 ' >
+                        randomCar.length === 0 ? <Spinner className='mx-auto' animation="border" /> : randomCar.slice(0,6).map((service, index) => <Col key={service._id} className='p-3 ' >
                             <Card className='h-100 hover-card card-border' >
                                 <Card.Img className='img1  ' variant="top" src={service.image} height='300' />
                                 <Card.Body>
@@ -24,7 +24,7 @@ const Service = () => {
                                         <p className='text-muted'>{service.bodytype}</p>
                                     </Card.Text>
                                     <Card.Text>
-                                        <p>{service.description.slice(0, 160)}</p>
+                                        <p>{service.description}</p>
                                     </Card.Text>
                                     {/* <Link to={`/services/${service._id}`}><button>update</button></Link> */}
                                     <br />
